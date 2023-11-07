@@ -5,7 +5,7 @@
 }
 body{
   height: 100vh;
-  font-family: poppins;
+  font-family: 'Poppins', sans-serif;
   background: url(https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) rgba(0,0,0,0.8) no-repeat center;
   background-size: cover;
   background-blend-mode: color;
